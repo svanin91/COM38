@@ -1,0 +1,11 @@
+{
+  "header": {
+    "Logo_sofitel": "../../public/static/logo_sofitel_header.png",
+    "Logo_comune": "../../public/static/logo_comune_header.png",
+    "Nome_comune": "Comune di Treviso ",
+    "Logo_gruppo_software": "../../public/static/logo_gruppo_software_header.png"
+  },
+  "footer": {
+    "footer_numero_help_desk": "0422 359911"
+  }
+}
